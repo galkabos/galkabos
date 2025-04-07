@@ -23,7 +23,7 @@ Here are some of the projects I’m most proud of:
 - **[DynamiCare System]()**  
   Empowering nurses and caregivers to manage patient information, tasks, schedules, and safety instructions in real time.
 
-- **[Multi-Threaded Set Card Game]()**  
+- **[Multi-Threaded Set Card Game](https://github.com/galkabos/set-card-game)**  
    A Java-based game supporting human and AI players, utilizing multithreading and semaphores for synchronized gameplay.
 
 
