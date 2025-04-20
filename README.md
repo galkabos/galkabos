@@ -20,7 +20,7 @@ I aspire to work in dynamic and innovative environments, contributing to impactf
 
 ### 📌 Featured Projects
 Here are some of the projects I’m most proud of:
-- **[DynamiCare System]()**  
+- **[DynamiCare System](https://github.com/galkabos/Dynamic-Care)**  
   Empowering nurses and caregivers to manage patient information, tasks, schedules, and safety instructions in real time.
 
 - **[Multi-Threaded Set Card Game](https://github.com/galkabos/set-card-game)**  
