@@ -1,7 +1,7 @@
 # Hi, I'm Gal Kabos! 👋
 
 ### 🚀 About Me
-I’m a fourth-year **Software Engineering student** at Ben-Gurion University with a passion for building robust, scalable, and innovative software solutions. My focus lies in **back-end development**, **front-end development**, and **software design**. I love exploring new technologies and solving challenging problems through clean, efficient code.
+I’m **Software Engineering graduate** at Ben-Gurion University with a passion for building robust, scalable, and innovative software solutions. My focus lies in **back-end development**, **front-end development**, and **software design**. I love exploring new technologies and solving challenging problems through clean, efficient code.
 
 ---
 
